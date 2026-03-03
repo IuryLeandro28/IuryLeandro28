@@ -30,8 +30,8 @@ I am a **Postgraduate Software Engineer** with over 5 years of experience archit
 ### 📊 GitHub Stats & Skills
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IuryLeandro28&show_icons=true&theme=radical" alt="Iury's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IuryLeandro28&theme=radical" alt="Iury's Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IuryLeandro28&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryLeandro28&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
