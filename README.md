@@ -29,10 +29,18 @@ I am a **Postgraduate Software Engineer** with over 5 years of experience archit
 
 ### 📊 GitHub Stats & Skills
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IuryLeandro28&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryLeandro28&layout=compact&theme=radical&langs_count=6" />
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IuryLeandro28&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+   <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
+</div>
 
 ---
 
